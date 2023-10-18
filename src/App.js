@@ -89,7 +89,7 @@ function App() {
                   <CardActions>
                     <Stack direction="row" spacing={21}>
                       <Button size="small">Pruebame!</Button>
-                      <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' /></Button>
+                      <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' style={{ color: "#f5f5f5" }} /></Button>
                     </Stack>
                   </CardActions>
                 </Card>
@@ -105,7 +105,7 @@ function App() {
                   <CardActions>
                     <Stack direction="row" spacing={21}>
                       <Button size="small">Pruebame!</Button>
-                      <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' /></Button>
+                      <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' style={{ color: "#f5f5f5" }} /></Button>
                     </Stack>
                   </CardActions>
                 </Card>
@@ -121,7 +121,7 @@ function App() {
                   <CardActions>
                     <Stack direction="row" spacing={21}>
                       <Button size="small">Pruebame!</Button>
-                      <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' /></Button>
+                      <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' style={{ color: "#f5f5f5" }} /></Button>
                     </Stack>
                   </CardActions>
                 </Card>
@@ -136,7 +136,7 @@ function App() {
               <div class="ui-section-contact__layout ui-layout-grid ui-layout-grid-2">
                 <div>
                   <div class="ui-layout-flex">
-                    <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' /></Button>
+                    <Button size="small"><FontAwesomeIcon icon="fa-brands fa-github" size='2xl' style={{ color: "#f5f5f5" }} /></Button>
                   </div>
                   <p>@ivandelmal123</p>
                 </div>
@@ -148,13 +148,19 @@ function App() {
                 </div>
                 <div>
                   <div class="ui-layout-flex">
-                    <Button size="small"><FontAwesomeIcon icon="fa-brands fa-instagram" size='2xl' /></Button>
+                    <Button size="small"><FontAwesomeIcon icon="fa-brands fa-instagram" size='2xl' style={{ color: "#d62976" }} /></Button>
                   </div>
                   <p>@ivandelmal123</p>
                 </div>
                 <div>
                   <div class="ui-layout-flex">
-                    <Button size="small"><FontAwesomeIcon icon="fa-solid fa-envelope" size='2xl' /></Button>
+                    <Button size="small"><FontAwesomeIcon icon="fa-brands fa-tiktok" size='2xl' style={{ color: "#f5f5f5" }} /></Button>
+                  </div>
+                  <p>@ivandelmal123</p>
+                </div>
+                <div>
+                  <div class="ui-layout-flex">
+                    <Button size="small"><FontAwesomeIcon icon="fa-solid fa-envelope" size='2xl' style={{ color: "#696969" }} /></Button>
                   </div>
                   <p>@ivandelmal123</p>
                 </div>
